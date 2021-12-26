@@ -11,9 +11,9 @@
 
 body {
     
-    min-width: 300px;
+    min-width: 250px;
     max-width: 1800px;
-    min-height: 250px;
+    min-height: 300px;
     margin-top: 140px;
     padding: 70px;
     padding-bottom: 40px;
