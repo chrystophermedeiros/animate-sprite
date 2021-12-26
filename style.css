@@ -10,15 +10,17 @@
 
 
 body {
-    margin: 0;
-    padding: 0;
+    
+    height: 500px;
+    margin-right: 40px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    margin-top: 70px;
+    padding: 0%;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    min-width: 594px;
-    max-height: 500px;
-    max-width: 1800px;
+   
     background: radial-gradient(#9bdfff,#009be4);
 }
 
