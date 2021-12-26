@@ -11,16 +11,16 @@
 
 body {
     
-    height: 500px;
-    margin-right: 40px;
-    margin-left: 50px;
-    margin-bottom: 0px;
-    margin-top: 70px;
-    padding: 0%;
+    min-width: 300px;
+    max-width: 800px;
+    min-height: 350px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top:20%;
+    padding: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-   
     background: radial-gradient(#9bdfff,#009be4);
 }
 
