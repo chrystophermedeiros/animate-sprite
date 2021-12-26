@@ -10,7 +10,7 @@
 
 
 body {
-    margin-top: 8%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,6 +22,8 @@ body {
 
 .infinite
 {
+    margin-top: 5%;
+    content: '';
     position: relative;
     width: 900px;
     height: 160px;
